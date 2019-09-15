@@ -1,43 +1,23 @@
+# AJAX In CodeIgniter Step By Step With CRUD Operation
+This is the Complete Source code of "AJAX In CodeIgniter Step By Step With CRUD Operation" course.
 
-
-# CodeIgniter 3 Tutorials for beginners and intermediate
-This is the Complete Source code of "CodeIgniter 3 for beginners and intermediate" course.
-
-## How can you learn Codeigniter framework..?
-You can learn the Codeigniter 3 with with Bootstrap from the official website of the [shakzee.com](https://www.shakzee.com/) and this is course [PHP Codeigniter Framework Tutorials](https://www.shakzee.com/courses/codeigniter-3-for-beginners-and-intermediate/)
+## How can you learn Ajax using Codeigniter framework..?
+You can learn the Ajax using  Codeigniter 3 with Bootstrap from the official website of the [shakzee.com](https://www.shakzee.com/) and this is course [PHP Codeigniter AJAX example](https://www.shakzee.com/courses/ajax-in-codeigniter-step-by-step-with-crud-operation/)
 
 ## Course Detail.
-You’ll learn how the MVC Design pattern works, I will teach and guide you step-by-step each and everything which is required for CodeIgniter. We will create a dashboard and you will learn how to control your web application/Website through your dashboard.
+Performing the CRUD operation using CodeIgniter is very easy because you have state forward things i.e parsing the values in the query string or as an argument in a particular method, but what happens when you need to insert your records without a page refresh, yes I am talking about ajax, Mostly Codeigniter Based  e-commerce or application system us the ajax to perform the CRUD operation or to perform some specific task i.e real-time search system Or even inserting, Deleting and updating the records without page refresh.
 
-You will learn how to create a proper Sign-up and login system for your application / Website. I will teach you how to use ajax and give you some tips and tricks using JQuery and JavaScript. You will learn how to break your content into multiple parts for reusing purpose.
+So Welcome to our New Series of Codeigniter with Ajax, in this series you learn how to perform CRUD operation using AJAX  in Codeigniter. I will teach you Step by step from scratch that how to AJAX works using jQuery + JavaScript so you can modify your database without page refresh.
 
-we’ll create a dashboard for registered users and you will learn how a particular user can manage their account.
-We can create a dashboard where admin can manage the website/web application.
-I’ll polish your skills when I give you some tips and tricks(JQuery, JSON, JavaScript, Codeigniter).
-You’ll understand how to expand upon these features when we are complete.
+I will guide how to validate your form from front-end and back-end, you will also learn how to create your dynamic data using jQuery + JavaScript. So before using learning this course you must familiar with jQuery and JavaScript, I also consider you have the basic knowledge of CodeIgniter.
 
-This course will take you to an Intermediate PHP programmer with JSON, JavaScript, Jquery. You will learn how to use Bootstrap framework to build your robust layout/template. You will learn how to use external API’s i.e Login with GooglePlus OR login with Facebook.
-
-You will learn how to use composer. At the end of this course, I’ll give you some intro about other frameworks like Laravel and much more.
+At the end of this course, you will be able to manage your database/Website using AJAX and don’t worry I will guide you step by step from scratch.
 
 ## Learning Outcome.
-- Understand MVC Design Pattern
-- Why you Break your content into multiple sections
-- Setup an entire Application.
-- Know CodeIgniters Process
-- Sign up System
-- Login System
-- Login With Facebook
-- Search System
-- Twitter Bootstrap
-- User and Admin Dashboard
-- Tips and tricks
-- SEO friendly Website
-- Query optimization
-- Cache Mechanism
-- Project in Codeigniter
-- jQuery AJAX
-- Database Designing
-
+- Insert, update and delete any data without Page Refresh using AJAX in Codeigniter.
+- How to access your controllers and methods using AJAX in CodeIgniter.
+- How to validate your AJAX requests.
+- Creating dynamic content using Javascript + jQuery.
+- Creating Dynamic content from Controller to your View using AJAX.
 
 
