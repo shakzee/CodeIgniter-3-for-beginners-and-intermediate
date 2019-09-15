@@ -4,7 +4,7 @@
 This is the Complete Source code of "CodeIgniter 3 for beginners and intermediate" course.
 
 ## How can you learn Codeigniter framework..?
-You can learn the Codeigniter 3 with with Bootstrap from the official website of the [shakzee.com](https://www.shakzee.com/) [PHP Codeigniter Framework Tutorials](https://www.shakzee.com/courses/codeigniter-3-for-beginners-and-intermediate/)
+You can learn the Codeigniter 3 with with Bootstrap from the official website of the [shakzee.com](https://www.shakzee.com/) and this is course [PHP Codeigniter Framework Tutorials](https://www.shakzee.com/courses/codeigniter-3-for-beginners-and-intermediate/)
 
 ## Course Detail.
 You’ll learn how the MVC Design pattern works, I will teach and guide you step-by-step each and everything which is required for CodeIgniter. We will create a dashboard and you will learn how to control your web application/Website through your dashboard.
