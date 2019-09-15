@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d4780586-ddf7-4769-b329-f54bc508f5a1" name="shakzeeMain" url="http://www.shakzee.com">
+        <fileTransfer host="www.shakzee.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="108d2dab-345a-4e2c-bbad-93f098025af1" name="codeigniter3" url="http://shakzee.com">
+        <fileTransfer host="shakzee.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
